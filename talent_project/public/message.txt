@@ -1,0 +1,12 @@
+1|Este es mi primer post y espero que esté bien|2016/08/22 01:42:35|1|Carlos12|
+2|Esto se puede poner entretenido|2018/08/22 11:45:51|1|Carlos12|
+3|Aquí probando algo bien para el futuro|2020/06/22 01:15:01|2|NelsonBarraez20|
+4|Mis posts son los mejores|2020/06/22 02:26:48|2|NelsonBarraez20|
+5|Desarrollo de software|2020/08/22 23:30:00|2|NelsonBarraez20|
+6|Hasta aquí va todo bien|2020/08/23 04:49:31|1|Carlos12|
+7|Este es mi super timeline|2020/08/23 05:24:44|1|Carlos12|
+8|Probando esta estupenda aplicación|2015/08/22 20:04:06|1|Carlos12|
+9|Muchas gracias por la oportunidad a Talent :)|2020/08/23 08:04:38|3|Alex10|
+10|La música que estoy escuchando es brutal.|2020/08/22 21:31:51|3|Alex10|
+11|Probando esto.|2020/08/22 21:36:26|3|Alex10|
+12|Supeeeeerrr!|2020/08/22 21:38:58|3|Alex10|
